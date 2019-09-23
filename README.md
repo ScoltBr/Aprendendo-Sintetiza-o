@@ -17,3 +17,7 @@ Criar Assistentes Virtuais para Automatizar Tarefas
 
 ## Requisito ou pré-requisito
 Conhecimentos básicos de Python
+
+## By
+
+[ScoltBr](https://www.facebook.com/ScoltBr)
